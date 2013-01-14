@@ -225,6 +225,10 @@ p.header {
 	font-size: 16px;
 }
 
+h4.header {
+	color: #fff;
+}
+
 h1.header {
 	font-family: 'Arvo', sans-serif;
 	font-size: 30px;
