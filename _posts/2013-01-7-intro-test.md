@@ -2,7 +2,7 @@
 layout: post
 title: "Intro test"
 description: "test description"
-category: "drawing"
-tags: [drawing]
+category: "development"
+tags: [development]
 ---
 {% include JB/setup %}
