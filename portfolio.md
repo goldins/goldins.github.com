@@ -2,6 +2,7 @@
 layout: page
 title: "Portfolio"
 description: ""
+group: navigation
 ---
 {% include JB/setup %}
 <!-- 500pxWidget -->
