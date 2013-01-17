@@ -352,7 +352,6 @@ footer {
   
   section, footer {
     float:none;
-    position:static;
     width:auto;
   }
 
@@ -364,8 +363,9 @@ footer {
   
   header {
     width: auto;
-    padding-right: 100px;
+    padding: 34px 100px 0 50px;
     margin-bottom: 20px;
+    position: relative;
   }
   
   section {
