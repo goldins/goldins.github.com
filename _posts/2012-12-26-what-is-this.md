@@ -3,7 +3,7 @@ layout: post
 title: "What is this?"
 description: "Introduction"
 category: meta
-tags: [meta introduction]
+tags: [meta, introduction]
 ---
 {% include JB/setup %}
 <img src="/assets/images/wolf.jpg" class="img-right"/>

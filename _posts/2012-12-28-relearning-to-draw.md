@@ -3,7 +3,7 @@ layout: post
 title: "(Re)Learning to Draw"
 description: ""
 category: meta
-tags: [meta introduction]
+tags: [meta, introduction]
 ---
 {% include JB/setup %}
 <img src="/assets/images/desert.jpg" class="img-left"/>
