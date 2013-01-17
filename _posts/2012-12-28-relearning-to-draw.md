@@ -2,8 +2,8 @@
 layout: post
 title: "(Re)Learning to Draw"
 description: ""
-category: 
-tags: []
+category: meta
+tags: [meta introduction]
 ---
 {% include JB/setup %}
 <img src="/assets/images/desert.jpg" class="img-left"/>
