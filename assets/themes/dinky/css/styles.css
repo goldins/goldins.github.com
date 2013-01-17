@@ -305,6 +305,10 @@ header li:hover {
   background: linear-gradient(top, #C3001D 0%,#950119 100%);
 }
 
+.posts {
+  margin-top: 40px;
+}
+
 .posts li {
   font-size: 1.4em;
   padding-bottom: 20px;
