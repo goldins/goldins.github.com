@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Welcome
 tagline: Simon Goldin's blog.
 ---
 {% include JB/setup %}
