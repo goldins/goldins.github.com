@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Lesson 1 Parts 2 and 3 - Upside-Down Drawing"
-description: ""
-category: 
-tags: []
+description: "Two upside down drawings."
+category: art, beginning
+tags: [learning, sketch, lesson]
 ---
 {% include JB/setup %}
  <p>In continuing to disconnect memorized symbols and reality, the next two drawings were upside down copies from the book.<br>

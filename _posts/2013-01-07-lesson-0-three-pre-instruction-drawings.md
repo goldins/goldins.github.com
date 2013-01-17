@@ -2,8 +2,8 @@
 layout: post
 title: "Lesson 0: Three Pre Instruction Drawings"
 description: ""
-category: 
-tags: []
+category: art, beginning
+tags: [learning, sketch, lesson]
 ---
 {% include JB/setup %}
 <p>Thus begins the journey...</p>

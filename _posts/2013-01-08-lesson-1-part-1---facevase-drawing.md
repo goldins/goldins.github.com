@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Lesson 1 Part 1 - Face/Vase Drawing"
-description: ""
-category: 
-tags: []
+description: "Simple drawing."
+category: art, beginning
+tags: [learning, sketch, lesson]
 ---
 {% include JB/setup %}
 <p>The idea of this lesson (from chapter 4) was to provide a disconnect between a verbal and visual way of thinking. Although I erased the right side once, I think it worked well.<br>
