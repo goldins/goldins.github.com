@@ -350,7 +350,7 @@ footer {
     margin:0;
   }
   
-  header, section, footer {
+  section, footer {
     float:none;
     position:static;
     width:auto;
@@ -363,7 +363,9 @@ footer {
 	}
   
   header {
-    padding-right:320px;
+    width: auto;
+    padding-right: 100px;
+    margin-bottom: 20px;
   }
   
   section {
@@ -376,9 +378,12 @@ footer {
   }
   
   header ul {
-    position:absolute;
-    right:130px;
-    top:84px;
+    padding: 0 0 0 10px;
+    float: left;
+  }
+
+  header li {
+    display: inline-block;
   }
 }
 
