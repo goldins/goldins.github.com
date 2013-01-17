@@ -305,6 +305,11 @@ header li:hover {
   background: linear-gradient(top, #C3001D 0%,#950119 100%);
 }
 
+.posts li {
+  font-size: 20px;
+  padding-bottom: 1.4em;
+}
+
 a.buttons {
 	-webkit-font-smoothing: antialiased;
 	background: url(../images/arrow-down.png) no-repeat;
@@ -385,6 +390,11 @@ footer {
 
   header li {
     display: inline-block;
+  }
+
+  .posts li {
+    font-size: 20px;
+    padding-bottom: 1.4em;
   }
 }
 
