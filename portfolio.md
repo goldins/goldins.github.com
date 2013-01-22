@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Portfolio"
+title: "Photo Portfolio"
 description: ""
 group: navigation
 ---
