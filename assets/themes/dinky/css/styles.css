@@ -345,6 +345,11 @@ section p {
   clear: both;
 }
 
+.category-list {
+  width: 40%;
+  float: left;
+}
+
 /* Footer */
 
 footer {
