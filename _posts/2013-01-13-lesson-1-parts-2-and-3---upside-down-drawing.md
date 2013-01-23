@@ -2,7 +2,7 @@
 layout: post
 title: "Lesson 1 Parts 2 and 3 - Upside-Down Drawing"
 description: "Two upside down drawings."
-category: art, beginning
+category: art
 tags: [learning, sketch, lesson]
 ---
 {% include JB/setup %}

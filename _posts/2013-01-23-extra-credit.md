@@ -2,7 +2,7 @@
 layout: post
 title: "Extra credit"
 description: ""
-category: art, beginning
+category: art
 tags: [learning, sketch, lesson]
 ---
 {% include JB/setup %}

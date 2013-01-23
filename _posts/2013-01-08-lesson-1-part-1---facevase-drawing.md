@@ -2,7 +2,7 @@
 layout: post
 title: "Lesson 1 Part 1 - Face/Vase Drawing"
 description: "Simple drawing."
-category: art, beginning
+category: art
 tags: [learning, sketch, lesson]
 ---
 {% include JB/setup %}
