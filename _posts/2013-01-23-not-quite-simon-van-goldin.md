@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Not Quite Simon Van Goldin"
+title: "Not Quite Simon van Goldin"
 description: ""
 category: art
 tags: [learning, sketch, lesson]
