@@ -396,7 +396,7 @@ footer {
     position: relative;
   }
 
-  header:after {
+  header + section {
     clear: both;
   }
   
