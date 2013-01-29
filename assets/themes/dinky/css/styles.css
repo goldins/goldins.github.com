@@ -356,6 +356,10 @@ section {
   display: inline;
 }
 
+.pagination .disable {
+  visibility: hidden;
+}
+
 /* Footer */
 
 footer {
