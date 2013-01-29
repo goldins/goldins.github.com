@@ -356,7 +356,7 @@ section {
   display: inline;
 }
 
-.pagination .disable {
+.pagination .disabled {
   visibility: hidden;
 }
 
