@@ -390,7 +390,7 @@ footer {
   }
   
   header {
-    width: auto;
+    width: 80%;
     padding: 34px 100px 0 50px;
     margin-bottom: 20px;
     position: relative;
@@ -438,17 +438,18 @@ footer {
   
   header {
     padding:10px 20px 0;
-		margin-right: 0;
+    margin-right: 0;
+    width: 90%;
   }
 
-	section {
+  section {
     padding:10px 0 10px 20px;
     margin:0 0 30px;
   }
 
-	footer {		
-		margin: 0 0 0 30px;
-	}
+  footer {		
+    margin: 0 0 0 30px;
+  }
   
   header ul, header p.view {
     position:static;
