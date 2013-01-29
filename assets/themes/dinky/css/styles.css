@@ -435,6 +435,10 @@ footer {
     font-size: 1.4em;
     padding-bottom: 20px;
   }
+
+  footer {
+    clear: both;
+  }
 }
 
 @media print, screen and (max-width: 720px) {
@@ -454,7 +458,6 @@ footer {
   }
 
   footer {
-    clear: both;
     margin: 0 0 0 30px;
   }
   
