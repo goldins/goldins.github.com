@@ -347,6 +347,15 @@ section {
   float: left;
 }
 
+.pagination {
+  clear: both;
+  text-align: center;
+}
+
+.pagination li {
+  display: inline;
+}
+
 /* Footer */
 
 footer {
