@@ -42,8 +42,11 @@
         {% endif %}
         {% if site.author %}
         <div class="misc vcard">
-          <h4 class="header"></h4>
+          <h4 class="header">about</h4>
           <ul>
+            {% if site.author.about %}
+            <li class="about"><a href="/{{ site.author.about }}" rel="me">About This</a></li>
+            {% endif %}
             {% if site.author.email %}
 <!--            <li class="contact"><address><span class="author fn n">{{ site.author.name }}</span> - <span class="fn email">{{ site.author.email }}</span></address></li>-->
             {% endif %}
@@ -64,9 +67,6 @@
             {% endif %}
             {% if site.author.pinterest %}
             <li class="pinterest"><a href="http://pinterest.com/{{ site.author.pinterest }}" target="_blank" rel="me">pinterest.com/{{ site.author.pinterest }}</a></li>
-            {% endif %}
-            {% if site.author.about %}
-            <li class="about"><a href="/{{ site.author.about }}" target="_blank" rel="me">About This</a></li>
             {% endif %}
           </ul>
         </div><!-- misc -->
