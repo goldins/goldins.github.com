@@ -6,7 +6,7 @@ category: art
 tags: [learning, sketch, redditgetsdrawn]
 ---
 {% include JB/setup %}
-<p>I found a community on reddit called redditgetsdrawn where people post photos of themselves and other users draw them. I had a go at one:</p>
+<p>I found a community on reddit called <a href="http://www.reddit.com/r/redditgetsdrawn" target="_blank">redditgetsdrawn</a> where people post photos of themselves and other users draw them. I had a go at one:</p>
 <img src="{{ BASE_PATH }}/assets/images/reddit_sanderjim.jpg" alt="sanderjim" class="img-left"/>
 
 <p>Original:</p>
